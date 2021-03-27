@@ -11,9 +11,15 @@
 
 ## Screenshots
 
-<img src="/img/Screen-Shot-1.png" align="center" height="500" width="400">
-<img src="/img/Screen-Shot-2.png" align="center" height="500" width="400">
-<img src="/img/Screen-Shot-3.png" align="center" height="500" width="400">
+<p align="center">
+  <img src="/img/Screen-Shot-1.png" height="500" width="400">
+</p>
+<p align="center">
+  <img src="/img/Screen-Shot-3.png" height="500" width="400">
+</p>
+<p align="center">
+  <img src="/img/Screen-Shot-2.png" height="500" width="400">
+</p>
 
 ## Key Features
 
