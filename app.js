@@ -71,7 +71,7 @@ document.querySelector('#temp-form').addEventListener('submit', function(e) {
 
 // Calculate Results
 function calculateResults(){
-  console.log('Calculating...');
+  
   // UI Vars
   const unitToConvert = document.querySelector("#unit-description");
   let selectedUnit = units.selectedIndex;

@@ -13,6 +13,7 @@
 
 <img src="/img/Screen-Shot-1.png" align="center">
 <img src="/img/Screen-Shot-2.png" align="center">
+<img src="/img/Screen-Shot-3.png" align="center">
 
 ## Key Features
 
