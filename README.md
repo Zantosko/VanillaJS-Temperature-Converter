@@ -2,7 +2,7 @@
 
 ## Description
 
-- This a simple widget that requires the user to select one of the four available temperature units and input an amount. The user will then click calculate and the widget will then return three different solutions. Each solution represents one the units that wasn't selected and the conversion is based on the amount specifed by the user.
+- This is a simple widget that requires the user to select one of the four available temperature units and input an amount. The user will then click calculate and the widget will then return three different solutions. Each solution represents one the units that wasn't selected and the conversion is based on the amount specifed by the user.
 - Temperature units used:
   - Fahrenheit (default unit)
   - Celsius
